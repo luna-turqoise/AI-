@@ -1,0 +1,10 @@
+Epoch: 0 | train loss: 247.01709 |train acc: 0.713 |train recall: 0.641 | train f1: 0.675 | validate loss: 469.50089 | validate acc: 0.405 | validate recall: 0.454 | validate f1: 0.428
+Epoch: 1 | train loss: 219.20531 |train acc: 0.749 |train recall: 0.699 | train f1: 0.723 | validate loss: 554.27771 | validate acc: 0.463 | validate recall: 0.408 | validate f1: 0.434
+Epoch: 2 | train loss: 215.74054 |train acc: 0.764 |train recall: 0.707 | train f1: 0.734 | validate loss: 573.89435 | validate acc: 0.397 | validate recall: 0.457 | validate f1: 0.425
+Epoch: 3 | train loss: 208.85300 |train acc: 0.763 |train recall: 0.708 | train f1: 0.734 | validate loss: 758.96576 | validate acc: 0.228 | validate recall: 0.516 | validate f1: 0.316
+Epoch: 4 | train loss: 185.29036 |train acc: 0.779 |train recall: 0.731 | train f1: 0.754 | validate loss: 503.36600 | validate acc: 0.415 | validate recall: 0.345 | validate f1: 0.376
+Epoch: 5 | train loss: 217.75610 |train acc: 0.752 |train recall: 0.703 | train f1: 0.727 | validate loss: 556.10083 | validate acc: 0.439 | validate recall: 0.341 | validate f1: 0.384
+Epoch: 6 | train loss: 249.52144 |train acc: 0.716 |train recall: 0.671 | train f1: 0.693 | validate loss: 485.98853 | validate acc: 0.415 | validate recall: 0.448 | validate f1: 0.431
+Epoch: 7 | train loss: 208.86421 |train acc: 0.755 |train recall: 0.705 | train f1: 0.729 | validate loss: 545.00494 | validate acc: 0.304 | validate recall: 0.398 | validate f1: 0.345
+Epoch: 8 | train loss: 211.16400 |train acc: 0.771 |train recall: 0.720 | train f1: 0.745 | validate loss: 456.20743 | validate acc: 0.329 | validate recall: 0.453 | validate f1: 0.381
+Epoch: 9 | train loss: 200.15636 |train acc: 0.767 |train recall: 0.723 | train f1: 0.744 | validate loss: 595.13220 | validate acc: 0.276 | validate recall: 0.533 | validate f1: 0.364
